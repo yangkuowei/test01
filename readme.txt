@@ -6,4 +6,4 @@ master add.
 My stupid boss still prefers SVN.
 Creating a new branch is quick.
 dev add
-Creating a new branch is quick AND simple.
+Creating a new branch is quick & simple.
