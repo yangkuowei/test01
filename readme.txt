@@ -9,3 +9,4 @@ dev add
 Creating a new branch is quick and simple.
 
 1
+brand1 add
